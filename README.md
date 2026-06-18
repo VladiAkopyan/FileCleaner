@@ -1,4 +1,4 @@
-# FileCleaner
+# FileCleaner (Russian Version)
 
 ## Что делает эта программа?
 FileCleaner - это программа для упорядочивания и распределения файлов с указанными 
